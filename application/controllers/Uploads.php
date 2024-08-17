@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Uploads extends CI_Controller
+class Uploads extends MY_UserController
 {
 
   var $upload_model;

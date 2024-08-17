@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Post_views extends CI_Controller
+class Post_views extends MY_UserController
 {
   var $post_view_model;
 

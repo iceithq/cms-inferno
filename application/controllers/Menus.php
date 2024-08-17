@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Menus extends CI_Controller
+class Menus extends MY_UserController
 {
   var $admin_service;
   var $menu_model;

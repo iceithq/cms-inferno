@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Sites extends CI_Controller
+class Sites extends MY_UserController
 {
   var $site_model;
 

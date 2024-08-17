@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Comments extends CI_Controller
+class Comments extends MY_UserController
 {
   var $comment_model;
 

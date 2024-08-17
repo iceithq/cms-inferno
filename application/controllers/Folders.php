@@ -11,7 +11,7 @@
  * and other pending or existing intellectual property
  * rights in the Philippines.
  */
-class Folders extends CI_Controller
+class Folders extends MY_UserController
 {
 
   var $folder_model;
